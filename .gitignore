@@ -105,3 +105,7 @@ venv.bak/
 
 # pycharm
 .idea/
+
+# DL contents
+.DS_Store
+music/
